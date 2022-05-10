@@ -1,0 +1,8 @@
+1) Starting PetClinic - Done;
+2)Intro to SFG Version of Spring PetClinic App - Done;
+3)Spring Pet Clinic Task Planning - Done;
+4)Basic principles of SOLID - Done;
+5)Create Spring DI example project - Done;
+6)The Spring Context - Done;
+7)Basics of dependency injection - Done;
+8)Injection without Spring - Done;
